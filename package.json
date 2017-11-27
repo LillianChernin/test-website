@@ -14,7 +14,11 @@
     "type": "git",
     "url": "git+https://github.com/LillianChernin/test-website.git"
   },
-  "keywords": [],
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -22,6 +26,10 @@
   },
   "homepage": "https://github.com/LillianChernin/test-website#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
   }
 }
