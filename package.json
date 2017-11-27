@@ -1,0 +1,23 @@
+{
+  "name": "test-website",
+  "version": "1.0.0",
+  "description": "Test website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LillianChernin/test-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LillianChernin/test-website/issues"
+  },
+  "homepage": "https://github.com/LillianChernin/test-website#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
